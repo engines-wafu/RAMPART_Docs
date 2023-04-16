@@ -6,4 +6,4 @@
 
 ## Standard Operating Procedures
 
-[Range Brief](Briefs/Range_Brief.md)
+[801 NAS](SOPs/801.md)
