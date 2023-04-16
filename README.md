@@ -3,6 +3,7 @@
 ## Active Briefing Documents
 
 [Op RAMPART Theatre Brief](Briefs/Theatre_Brief.md)
+
 [MOA and Range Brief](Briefs/Range_Brief.md)
 
 ## Current Planning Documents
