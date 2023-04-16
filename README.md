@@ -2,7 +2,7 @@
 
 ## Active Briefing Documents
 
-[Range Brief](Briefs/Range_Brief.md)
+[MOA and Range Brief](Briefs/Range_Brief.md)
 
 ## Standard Operating Procedures
 
