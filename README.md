@@ -2,7 +2,7 @@
 
 ## Theatre Overview Brief
 
-
+[Op RAMPART Theatre Brief](Briefs/Theatre_Brief.md)
 
 ## Current Planning Documents
 
