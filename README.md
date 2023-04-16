@@ -2,5 +2,5 @@
 
 ## Active Briefing Documents
 
-[Range Brief](Briefs/Range\ Brief.md)
+[Range Brief](Briefs/Range Brief.md)
 
