@@ -97,7 +97,7 @@ If active, control may be delegated to a nominated range control or airborne sur
 
 #### Purpose and Usage
 
-Tsalka MOA is a complex area activity that abuts the souther Georgian border.
+Tsalka MOA is a complex area of intensive military activity that abuts the souther Georgian border.
 The area contains restricted areas, frequent helicopter movements, and a low-level route.
 The two low-level entries are designated as ALPHA to the east and HOTEL on the northwest and the exit is at point OSCAR.
 
