@@ -120,3 +120,21 @@ The Tsalka MOA starts at the FL080 and ends at FL200.
 
 Tsalka MOA will be generally controlled with Tbilisi Radar.
 If active, control may be delegated to a nominated range control or airborne surveillance asset.
+
+## Control Points (CPs)
+
+Several pre-determined CPs have been established in the R-6909 range to aid coordination for CAS and strike exercises.
+An overview of these points is shown in the figure below, but note that the pilot kneeboards will be the kept up to date with all positions.
+
+![CPs](CPs.png)
+
+## Bombing Circles and Strafe Pit
+
+In the NW section of R-6909 at CP "CRATER" are two bombing circles and one strafe pit as shown in the figure below.
+This range is cleared for live ordnance while using RH patterns in from the north to the south on ingress.
+A white ISO container has been positioned 5.9nm north in a clearing to indicate the IP.
+Note that low-level flights may use the range for live ordnance delivery from ingress headings other than south, but these situations will be briefed in range bookings.
+
+![CRATER](CRATER.png)
+
+
