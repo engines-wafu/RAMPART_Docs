@@ -10,6 +10,8 @@
 
 [CombatFlite Master Template](Mission_Planning/Master_RAMPART_Overview.cf)
 
+[Pilot Kneeboards](Mission_Planning/Kneeboards.zip)
+
 ## Standard Operating Procedures
 
 [801 NAS](SOPs/801.md)
