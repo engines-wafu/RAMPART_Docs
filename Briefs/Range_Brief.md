@@ -24,7 +24,7 @@ Flight following and basic radar services may be available from the nearest grou
 Restricted areas are where operations are hazardous to any flying in the vicinity
 Restricted areas denote the existence of unusual hazards that are often not immediately visible (for example, artillery firing, aerial gunnery, or guided missiles).
 No civil traffic may enter a restricted area while it is hot.
-It is the pilots responsibility to book restricted areas for military activity to ensure other traffic is vectored clear.
+It is the military pilot's responsibility to book restricted areas for military activity to ensure other traffic is vectored clear.
 
 ## Area Overview
 
