@@ -15,3 +15,8 @@
 ## Standard Operating Procedures
 
 [801 NAS](SOPs/801.md)
+
+## Simulation-Specific
+
+- Add page for LotATC config.
+- Add page for transponder usage.
