@@ -26,4 +26,4 @@
 
 [Pilot's Transponder Usage Guide*](Guides/XPNDR.md)
 
-* Work in progress
+Note: * indicates work in progress
