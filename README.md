@@ -14,9 +14,14 @@
 
 ## Standard Operating Procedures
 
+[Kobuleti Flying Order Book*]{SOPs/FOB.md}
+
 [801 NAS](SOPs/801.md)
 
 ## Simulation-Specific
 
-- Add page for LotATC config.
-- Add page for transponder usage.
+[Controllers' LotATC Configuration Guide*]{Guides/LotTAC.md}
+
+[Pilot's Transponder Usage Guide*]{Guides/XPNDR.md}
+
+* Work in progress
