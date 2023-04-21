@@ -6,6 +6,14 @@
 
 [MOA and Range Brief](Briefs/Range_Brief.md)
 
+## Standard Operating Procedures
+
+[Tbilisi Flying Order Book*](SOPs/FOB.md)
+
+[801 NAS](SOPs/801.md)
+
+## Training Resources
+
 [Airspace Brief*](Briefs/Airspace.pdf)
 
 ## Current Planning Documents
@@ -13,12 +21,6 @@
 [CombatFlite Master Template](Mission_Planning/Master_RAMPART_Overview.cf)
 
 [Pilot Kneeboards](Mission_Planning/Kneeboards.zip)
-
-## Standard Operating Procedures
-
-[Tbilisi Flying Order Book*](SOPs/FOB.md)
-
-[801 NAS](SOPs/801.md)
 
 ## Simulation-Specific
 
