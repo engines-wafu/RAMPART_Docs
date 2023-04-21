@@ -6,6 +6,8 @@
 
 [MOA and Range Brief](Briefs/Range_Brief.md)
 
+[Trench Run Low-Level Route Brief](Briefs/Trench_Run.md)
+
 ## Standard Operating Procedures
 
 [Tbilisi Flying Order Book*](SOPs/FOB.md)
