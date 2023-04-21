@@ -25,7 +25,8 @@ The main configurations that may be flown are as follows:
 1. Main Loop
 2. East Split
 3. West Split
-4. Batumi Transition
+4. North Half Loop
+5. Batumi Transition
 
 The route can be joined or exited from the following locations:
 
@@ -60,6 +61,10 @@ All users SHALL book the CRATER range and communicate their intentions clearly t
 
 The West Split is joined from entry HOTEL and continues immediately to the east towards the LIMA split.
 At the LIMA split, pilots may utilise CRATER range, but must continue south to continue clockwise towards DELTA and then exit FOXTROT.
+
+### North Half Loop
+
+Users may follow the West Split entry procedure and, optionally using the CRATER range, continue onward to Exit OSCAR and exit per the Main Loop procedures.
 
 ### Batumi Transition
 
