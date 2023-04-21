@@ -16,7 +16,7 @@
 
 ## Standard Operating Procedures
 
-[Kobuleti Flying Order Book*](SOPs/FOB.md)
+[Tbilisi Flying Order Book*](SOPs/FOB.md)
 
 [801 NAS](SOPs/801.md)
 
