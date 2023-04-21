@@ -2,7 +2,7 @@
 
 14 Apr 23
 
-Disrtribution:
+Distribution:
 
 UKFOR JEF Aircrew and Officers
 

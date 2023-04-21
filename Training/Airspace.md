@@ -2,7 +2,7 @@
 
 21 Apr 23
 
-Disrtribution:
+Distribution:
 
 UKFOR JEF Aircrew and Officers
 
@@ -149,8 +149,8 @@ Refer to the latest published CombatFlite template for current airspace informat
   - approaches,
   - departures,
   - and navigation
-- Fixes shown in GREY with 5-letter name
+- Fixes shown in grey with 5-letter name
   - Maybe GPS referenced, but normally given as range and bearing to a nearby TACAN or other radio beacon
-- Intersections same, but in PURPLE
+- Intersections same, but in purple
   - Normally identified as the point of intersection of two different TACAN or other radio beacon radials
 
