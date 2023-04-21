@@ -12,15 +12,11 @@ UKFOR JEF Aircrew and Officers
 
 This brief is for entertainment purposes only and is not to be used for any form of aviation training or planning.
 
-## Table of Contents
-
-{:toc}
-
 ## Airspace Types
 
 ### Lower Airspace Radar Service (LARS)
 
-[Tbilisi LARS](LARS.png)
+![Tbilisi LARS](LARS.png)
 
 - From SFC to FL280, radar coverage permitting
 - 50nm radius
