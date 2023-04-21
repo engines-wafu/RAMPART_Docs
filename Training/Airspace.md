@@ -11,7 +11,7 @@ UKFOR JEF Aircrew and Officers
 **WARNING:** This brief is for entertainment purposes only and is not to be used for any form of aviation training or planning.
 
 This document is for familiarisation and training of Joint Strike Wing aircrew operating in the RAMPART area of operations.
-Refer to the latest published CombatFlite template for current airspace information for navigation and planning.
+Refer to the latest published [CombatFlite template](../Mission_Planning/Kneeboards.zip) for current airspace information for navigation and planning.
 
 ## Airspace Types
 

@@ -16,7 +16,7 @@
 
 ## Training Resources
 
-[Airspace Brief](Training/Airspace.md)
+[Airspace Training Brief](Training/Airspace.md)
 
 ## Current Planning Documents
 
