@@ -118,15 +118,15 @@ Refer to the latest published [CombatFlite template](../Mission_Planning/Master_
 
 ![Low-Level Routes](LLRs.png)
 
-- Predefined Training Routes
+- Predefined training routes
 - Operated at or below 250’ AGL
-- Designated Entry and Exits
+- Designated entry and exits
 - Identified as blue dashed lines
-- Waypoints Sequential Alphabetically
-- Controlled Directions
+- Waypoints sequenced alphabetically
+- Controlled directions
 - Variations include:
-  - Crossing Points
-  - Transition Routes
+  - Crossing points
+  - Transition routes
 - Normally in MOAs
 - Separate briefing packs available for each route
 
@@ -134,11 +134,11 @@ Refer to the latest published [CombatFlite template](../Mission_Planning/Master_
 
 ![RW Routes](RWRs.png)
 
-- Predefined Routes To and From Aerodromes
-- Operated at or Below 250’ AGL
-- Designated Entry and Exits
-- Used to Deconflict FW Traffic
-- Traffic Uses RH of Corridor
+- Predefined routes to and from aerodromes
+- Operated at or below 250’ AGL
+- Designated entry and exits
+- Used to deconflict FW traffic
+- Traffic uses RH of corridor
 
 ### Fixes and Intersections
 
