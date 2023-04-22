@@ -23,7 +23,24 @@ An example of such a contact is can be seen below
 
 ![Unknown](UNK.png)
 
-All SRS users can manually set a transponder code using the Radio overlay feature by...
+## Reserved Codes
+
+Some full and partial transponder codes have been pre-assigned and are shown on the pilot kneeboards.
+An example is shown below, but for each mission, refer to your kneeboards.
+
+![Codes](Codes.png)
+
+If there are no controllers on for a given mission, it is good practice to select a transponder code based on your mission and unit.
+For example, if a flight of two Harriers are conducting a strike mission, they may select codes 5454 and 5355, and a single-ship Hawk aircraft on a navigation exercise may squawk 3701.
+
+## SRS Overlay
+
+Even if a DCS aircraft does not have an implemented transponder system, all SRS users can manually set a transponder code using the Radio overlay feature.
+Ensure that SRS has the "ALWAYS allow Transponder Overlay Controls" value set to "ON."
+Enable the overlay and click the round butto to the right of the word "TRANSPONDER" on the lower section of the overlay, this should turn the button green.
+Next, in the second box, enter the four-digit transponder code assigned, and click the "M4" button to the right so that it is highlighted green.
+
+![SRS Overlay](SRS.png)
 
 ## Aircraft-Specific Transponder Interfaces
 

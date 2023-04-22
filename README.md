@@ -28,6 +28,6 @@
 
 [Controllers' LotATC Configuration Guide*](Guides/LotTAC.md)
 
-[Pilot's Transponder Usage Guide*](Guides/XPNDR.md)
+[Pilot's Transponder Usage Guide](Sim_Guides/XPNDR_Settings.md)
 
 Note: * indicates work in progress
