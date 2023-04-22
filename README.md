@@ -12,7 +12,7 @@
 
 [Tbilisi Flying Order Book*](SOPs/FOB.md)
 
-[801 NAS](SOPs/801.md)
+[801 NAS SOPs](SOPs/801.md)
 
 ## Training Resources
 
