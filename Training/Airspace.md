@@ -101,8 +101,7 @@ Refer to the latest published [CombatFlite template](../Mission_Planning/Master_
 ![CAS and CPs](CAS.png)
 
 - Used to reference air and ground assets for close air support tasking
-- CPs look similar to fixes with GREY points and names
-- Identified as grey points
+- CPs look similar to fixes with grey points and names
 - Names may reference familiar place names based on local geography
 
 ## Routes
