@@ -10,7 +10,7 @@
 
 ## Standard Operating Procedures
 
-[Tbilisi Flying Order Book*](SOPs/FOB.md)
+[Tbilisi Flying Order Book*](SOPs/UGTB_FOB.md)
 
 [801 NAS SOPs](SOPs/801.md)
 
