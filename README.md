@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Operation RAMPART Document Library
 
 ## Active Briefing Documents
@@ -32,38 +31,3 @@
 [Pilot's Transponder Usage Guide](Sim_Guides/XPNDR_Settings.md)
 
 Note: * indicates work in progress
-=======
-# Operation RAMPART Document Library
-
-## Active Briefing Documents
-
-[Op RAMPART Theatre Brief](Briefs/Theatre_Brief.md)
-
-[MOA and Range Brief](Briefs/Range_Brief.md)
-
-[Trench Run Low-Level Route Brief](Briefs/Trench_Run.md)
-
-## Standard Operating Procedures
-
-[Tbilisi Flying Order Book*](SOPs/UGTB_FOB.md)
-
-[801 NAS SOPs](SOPs/801.md)
-
-## Training Resources
-
-[Airspace Training Brief](Training/Airspace.md)
-
-## Current Planning Documents
-
-[CombatFlite Master Template](Mission_Planning/Master_RAMPART_Overview.cf)
-
-[Pilot Kneeboards](Mission_Planning/Kneeboards.zip)
-
-## Simulation-Specific
-
-[Controllers' LotATC Configuration Guide*](Guides/LotTAC.md)
-
-[Pilot's Transponder Usage Guide](Sim_Guides/XPNDR_Settings.md)
-
-Note: * indicates work in progress
->>>>>>> 172b6c8d8600882fad7c0d8155a90b6bc1d6d9a1
