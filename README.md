@@ -24,10 +24,6 @@
 
 [Pilot Kneeboards](Mission_Planning/Kneeboards.zip)
 
-## Intelligence Products
-
-[Maps and Imagery](Int/README.md)
-
 ## Simulation-Specific
 
 [Controllers' LotATC Configuration Guide*](Guides/LotTAC.md)
