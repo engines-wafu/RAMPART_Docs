@@ -130,6 +130,8 @@ The R-6912 range is a designated live fire range in Turkish airspace.
 JEF pilots have been granted Diplomatic Clearance (DIPLCEAR) to operate in this area subject to approval from their commanding officer on a case-by-case basis.
 Unmanned target aircraft are available, but pilots remain responsible for range clearance prior to target launch.
 
+The range extends in in a 38nm radius from N41 56 E042 38 and then extends north to the border.
+
 ## Control Points (CPs)
 
 Several pre-determined CPs have been established in the R-6909 range to aid coordination for CAS and strike exercises.
