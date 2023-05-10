@@ -42,9 +42,8 @@ Each area is labeled with appropriate altitude blocks given.
 #### Purpose and Usage
 
 Poti MOA is an area measuring approximately 40nm by 34nm off-shore of the Poti lake area.
-This range is used exclusively for Basic Fighter Maneuvers (BFM) and Beyond Visual Range (BVR) engagements.
-Live weapons may be used within the range confines against target aircraft but the responsibility remains with the user to ensure that no other aircraft are at any risk of collateral damage.
-Users are also advised that any target aircraft launched in the range are always clear of any other aircraft to avoid undesired effects.
+This range is used exclusively for Basic Fighter Maneuvers (BFM) and Beyond Visual Range (BVR) training.
+Live weapons are NOT permitted in this MOA.
 
 #### Boundaries
 
@@ -124,6 +123,12 @@ The Tsalka MOA starts at the FL080 and ends at FL200.
 
 Tsalka MOA will be generally controlled with Tbilisi Radar.
 If active, control may be delegated to a nominated range control or airborne surveillance asset.
+
+### R-6912
+
+The R-6912 range is a designated live fire range in Turkish airspace.
+JEF pilots have been granted Diplomatic Clearance (DIPLCEAR) to operate in this area subject to approval from their commanding officer on a case-by-case basis.
+Unmanned target aircraft are available, but pilots remain responsible for range clearance prior to target launch.
 
 ## Control Points (CPs)
 
