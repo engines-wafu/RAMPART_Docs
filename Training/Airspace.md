@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-20230421-RAMPART_Airspace_Brief-U
-
 21 Apr 23
 
 Distribution:
